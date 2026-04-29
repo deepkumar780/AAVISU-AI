@@ -1,0 +1,6 @@
+{
+  "name": "Modelize.ai",
+  "description": "AI-powered product photoshoot and model video generator. Transform static product shots into realistic lifestyle videos and images featuring real models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Image Generation", "AI Video Generation"]
+}
